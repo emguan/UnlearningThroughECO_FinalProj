@@ -15,5 +15,5 @@ Where our implementation is:
 1. Sliding Window Classifier (eco/attack)
 2. Evaluation (eco/scripts/evaluate_tofu.py)
 3. Configuration changes (.yaml files)
-
-
+4. Tofu Dataset (padding)
+5. tofu.py
