@@ -1,6 +1,6 @@
 # 601.471_FinalProj_Sp25
 
-For proof of concept, we ran the experiment described in our paper under testScripts_and_proofOfConcept/test.py.
+For proof of concept, we ran the experiment described in our paper under concept_proof.
 
 
 To run full pipeline, run:
