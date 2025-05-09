@@ -1,0 +1,1 @@
+[{"tofu_retain99_answer_prob": 0.883205960961884}, {"tofu_forget01_answer_prob": 0.12711450067434588}, {"tofu_retain99_rougeL_recall": 0.782060368335996}, {"tofu_forget01_rougeL_recall": 0.2864489901281127}, {"tofu_real_authors_rougeL_recall": 0.5465000000000001}, {"tofu_world_facts_rougeL_recall": 0.8337606837606837}]
