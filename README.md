@@ -9,7 +9,7 @@ To run full pipeline, run:
 3. pad_slide_phi_01.sh: pplying padding to fine-tuned Phi-1.5 model with sliding window
 _*Note, these are all in llm-unlearn-eco_
 
-All correlated results were placed in Outputs.
+All correlated results were placed in output.
 
 Where our implementation is:
 1. Sliding Window Classifier (eco/attack)
